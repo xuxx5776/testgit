@@ -2,7 +2,8 @@ program testgit;
 
 uses
   Vcl.Forms,
-  MainUnit in 'MainUnit.pas' {Form1};
+  MainUnit in 'MainUnit.pas' {Form1},
+  SecondUnit in 'SecondUnit.pas';
 
 {$R *.res}
 

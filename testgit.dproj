@@ -108,6 +108,7 @@
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="SecondUnit.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -134,7 +135,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
-                <DeployFile LocalName="Win32\Debug\testgit.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="bin\testgit.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>testgit.exe</RemoteName>
                         <Overwrite>true</Overwrite>

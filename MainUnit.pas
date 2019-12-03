@@ -19,6 +19,7 @@ type
 
   const
     PROGRAM_NAME ='this is master';
+    PROGRAM_NAME2 ='现在是12月份分支';
 
 var
   Form1: TForm1;
@@ -67,7 +68,8 @@ end;
 
 procedure TForm1.btn1Click(Sender: TObject);
 begin
-  AppRestart;
+  ShowMessage('你好12月');
+//  AppRestart;
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
