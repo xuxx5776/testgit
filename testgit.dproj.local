@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.119,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.178,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.263,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.531,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.491,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.604,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.699,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.865,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.749,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.225,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019-12-02 21:38:01.751,=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019-12-02 22:50:41.230,D:\project\gitwork\testgit\MainUnit.pas=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019-12-02 22:50:41.230,D:\project\gitwork\testgit\MainUnit.dfm=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019-12-02 22:50:52.486,D:\project\gitwork\testgit\testgit.dproj=C:\Users\startx\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
